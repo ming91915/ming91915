@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>StructurevsPoem</title>
+  <icon>https://www.gravatar.com/avatar/d38e2518d4322ca6c5d3ecbe3b2180d7</icon>
+  <subtitle>以诗为马，筑构未来</subtitle>
+  <link href="/ming91915/atom.xml" rel="self"/>
+  
+  <link href="https://ming91915.github.io/ming91915/"/>
+  <updated>2017-11-10T17:33:15.270Z</updated>
+  <id>https://ming91915.github.io/ming91915/</id>
+  
+  <author>
+    <name>idealzeng</name>
+    <email>idealzeng@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>爱有多久？</title>
+    <link href="https://ming91915.github.io/ming91915/2014/10/08/howlonglove/"/>
+    <id>https://ming91915.github.io/ming91915/2014/10/08/howlonglove/</id>
+    <published>2014-10-07T16:24:00.000Z</published>
+    <updated>2017-11-10T17:33:15.270Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/ming91915/images/timg.jpg" alt="时间是空间的延伸"> </p><h3 id="题记"><a href="#题记" class="headerlink" title="题记"></a>题记</h3><blockquote><p>每个人都在问别人是否爱他/她，<br>如果爱着了，又要担心是爱多久？总担心有一天，你爱的人她/他不爱你。<br>烦恼于此，生活的情怀也在于此。下面的这首诗歌献给时间，让时间告诉你答案。</p></blockquote><h3 id="爱有多久"><a href="#爱有多久" class="headerlink" title="爱有多久"></a>爱有多久</h3><font size="3" color="#0099ff">日升于天，月沉深海。<br>待有良人，与我同归。<br><br>归我青山，与尔桃源。<br>归我绿水，与尔同醉。<br><br>赠汝丝绢，为我裁衣。<br>赠汝香草，记我德馨。<br><br>生若恒久，爱亦恒久。<br>爱火熄灭，生灵亦灭。<br><br>若有轮回，永不分别。<br></font>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/ming91915/images/timg.jpg&quot; alt=&quot;时间是空间的延伸&quot;&gt; &lt;/p&gt;
+&lt;h3 id=&quot;题记&quot;&gt;&lt;a href=&quot;#题记&quot; class=&quot;headerlink&quot; title=&quot;题记&quot;&gt;&lt;/a&gt;题记&lt;/h3&gt;&lt;blockquote
+      
+    
+    </summary>
+    
+      <category term="以诗为码" scheme="https://ming91915.github.io/ming91915/categories/%E4%BB%A5%E8%AF%97%E4%B8%BA%E7%A0%81/"/>
+    
+    
+      <category term="四言短诗" scheme="https://ming91915.github.io/ming91915/tags/%E5%9B%9B%E8%A8%80%E7%9F%AD%E8%AF%97/"/>
+    
+      <category term="情怀" scheme="https://ming91915.github.io/ming91915/tags/%E6%83%85%E6%80%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>梦梅</title>
+    <link href="https://ming91915.github.io/ming91915/2011/11/10/mengmei/"/>
+    <id>https://ming91915.github.io/ming91915/2011/11/10/mengmei/</id>
+    <published>2011-11-10T06:48:00.000Z</published>
+    <updated>2017-11-10T17:33:29.609Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/ming91915/images/mengmei.jpg" alt="梦梅">      </p><h3 id="题记"><a href="#题记" class="headerlink" title="题记"></a>题记</h3><blockquote><p>梅花–自古以来，是君子的象征。     </p></blockquote><a id="more"></a><font size="3" color="#0099ff">昨夜梦见满城雪，<br>今晨又闻暗香来。<br>白原冷地我一人，<br>孤芳未必寂寞开。<br></font>        <p><strong>愿君存天地之正气，耀我华夏！</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/ming91915/images/mengmei.jpg&quot; alt=&quot;梦梅&quot;&gt;      &lt;/p&gt;
+&lt;h3 id=&quot;题记&quot;&gt;&lt;a href=&quot;#题记&quot; class=&quot;headerlink&quot; title=&quot;题记&quot;&gt;&lt;/a&gt;题记&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;梅花–自古以来，是君子的象征。     &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="以诗为码" scheme="https://ming91915.github.io/ming91915/categories/%E4%BB%A5%E8%AF%97%E4%B8%BA%E7%A0%81/"/>
+    
+    
+      <category term="诗歌" scheme="https://ming91915.github.io/ming91915/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+      <category term="poem - 七言律诗" scheme="https://ming91915.github.io/ming91915/tags/poem-%E4%B8%83%E8%A8%80%E5%BE%8B%E8%AF%97/"/>
+    
+  </entry>
+  
+</feed>
